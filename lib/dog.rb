@@ -1,5 +1,5 @@
 class Dog
-  fido
-  snoopy
-  lassie 
+  fido = Dog
+  snoopy = Dog
+  lassie = Dog 
 end
