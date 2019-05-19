@@ -1,5 +1,5 @@
 class Dog
-  x = fido
-  y = snoopy
-  z = lassie 
+  fido
+  snoopy
+  lassie 
 end
